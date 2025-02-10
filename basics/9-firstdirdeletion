@@ -1,0 +1,2 @@
+#!/bin/bash
+rmidir /tmp/my_first_directory
