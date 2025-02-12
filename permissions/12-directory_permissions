@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir chmod u+x 754
+mkdir my_dir chmod u+x my_dir 
