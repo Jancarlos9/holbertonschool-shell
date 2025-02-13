@@ -1,2 +1,2 @@
 #!/bin/bash
-man /etc/passwd/etc/hosts
+less /etc/passwd/etc/hosts
