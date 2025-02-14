@@ -1,2 +1,2 @@
 #!/bin/bash
-Uniq -D cat iacta
+tail -n iacta man iacta
