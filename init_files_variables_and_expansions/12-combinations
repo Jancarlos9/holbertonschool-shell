@@ -1,2 +1,2 @@
 #!/bin/bash
-for a in {a..z} b{a..z} echo "$a$b"
+for a in {a..z} b{a..z}; do for b in "$a$b"
